@@ -1,0 +1,32 @@
+---
+title: ""
+output: 
+  bookdown::word_document2:
+    reference_docx: my_styles.docx
+---
+
+# Application of landscape models for bioassessment to support conservation planning
+
+## Overview
+
+Conservation planning for aquatic ecosystems requires identifying goals that are both comprehensive in scope and an efficient use of resources.  Identifying appropriate goals can be facilitated by an assessment of resources to determine where planning efforts should be focused. Biological assessment (bioassessment) methods that evaluate ecosystem condition using aquatic organisms are particularly useful because they provide an integrative measure of ecosystem health and function. Conservation goals based on bioassessment can establish a comprehensive planning foundation that is directly linked to biological objectives.
+Bioassessment methods for California streams have been sufficiently developed to evaluate stream health across regions.  The California Stream Condition Index (CSCI) is a measure of stream health that compares observed taxa and metrics at a site to those expected under reference conditions.  Macroinvertebrate data have been collected at nearly 3400 unique sites throughout the state since 2000 and this information could be used to establish biologically relevant endpoints for conservation planning.
+
+Conservation planning must also balance the human impacts on natural resources with goals that  are likely to be achieved within this context. Many stream reaches with low CSCI scores occur in developed urban and agricultural landscapes, where restoration can be costly and it may be difficult to achieve regional reference-like conditions.  In these situations, identifying a context for what CSCI scores are expected under current landscape conditions could be helpful for identifying where conservation actions are most likely to achieve intended outcomes, or conversely, where landscape alteration could limit success in achieving biological integrity.  Conversely, identifying locations where biological condition exceeds the expectation could be prioritized for conservation.  
+
+The landscape model was developed to predict an expected range of CSCI scores relative to the level of landscape alteration that occurs in a watershed.  This model was applied statewide to identify stream reaches that were constrained for achieving a potential biological objective for the CSCI.  The use of predictive landscape models to support conservation activities, such as watershed planning, has the potential to leverage bioassessment data in a novel context beyond condition assessment.  This application could support a broader use of bioassessment indices in a pro-active role to support conservation planning, rather than the prescriptive applications under which many indices are currently applied.  
+
+## Objectives and approach:
+
+This proposed work will apply a landscape modelling approach in a novel context to support use of bioassessment methods in conservation planning.  This approach will be applied to bioassessment data collected within the Contra Costa Resource Conservation District (RCD).  The RCD currently coordinates conservation activities among several watershed and volunteer groups in the region and has an important role in local decisions that affect aquatic resources. This work will support the RCD by providing a discussion tool to engage watershed groups with interests in the local resources and demonstrating the value of bioassessment for conservation activities.
+
+The specific actions to apply the model in this region will include:
+
+1)	Aggregate existing bioassessment data available in the RCD to evaluate the present state of stream biointegrity
+
+1)	Facilitate discussions among local stakeholders and conservation planners about setting goals and establishing key decision points in applying the landscape model through a series of workshops
+
+1)	Create an interactive application of the landscape model to explore tradeoffs and outcomes of potential conservation scenarios
+
+1)	Use the application to develop a set of priority conservation actions using the landscape model application
+
